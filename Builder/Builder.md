@@ -27,7 +27,7 @@ Pattern consists of basis classes as:
 * Director - refers to Builder interface for building part of complex object,
 * Builder - abstract interface for creating objects,
 * Concrete Builder - provides implementation for Builder, it's an object able to construct other objects. 
-![Builder UML](Builder UML.png)
+![Builder UML](Builder_UML.png)
 
 
 #### Advantages
